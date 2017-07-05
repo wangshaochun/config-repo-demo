@@ -1,3 +1,1 @@
-from:
-  profile: dev
-  info: git-repo
+name=dev
